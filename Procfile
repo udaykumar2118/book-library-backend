@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/book-library-manager-0.0.1-SNAPSHOT.jar
